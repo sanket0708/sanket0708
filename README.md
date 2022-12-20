@@ -14,8 +14,8 @@
 
 
 <p align="left">
-<a href="https://linkedin.com/in/sanket-mudholkar-20b4b5203" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sanket-mudholkar-20b4b5203" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/sanket0708" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="sanket0708" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/sanket-mudholkar-20b4b5203" target="blank"><img align="center" src="https://blog.linkedin.com/apps/settings/wcm/designs/linkedin/katy/global/clientlibs/resources/img/default-share.png" alt="sanket-mudholkar-20b4b5203" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/sanket0708" target="blank"><img align="center" src="https://theme.zdassets.com/theme_assets/9008406/036323c6afd10392aa5b7e3a2eb7557d17955c81.png" alt="sanket0708" height="30" width="40" /></a>
 </p>
 
 
