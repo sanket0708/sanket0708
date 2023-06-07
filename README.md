@@ -12,7 +12,7 @@
 
 - 📫 How to reach me **sanketmudhulkar98@gmail.com**
 
-For more details you can check my portfolio - <a href="[https://twitter.com/](https://647fa1e65e1d35799bbabe88--delicate-youtiao-a0f85d.netlify.app/)" target="blank">Personal Portfolio</a>
+For more details you can check my portfolio - <a href="https://647fa1e65e1d35799bbabe88--delicate-youtiao-a0f85d.netlify.app/" target="blank">Personal Portfolio</a>
 
 
 <p align="left">
