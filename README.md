@@ -12,6 +12,8 @@
 
 - 📫 How to reach me **sanketmudhulkar98@gmail.com**
 
+For more details you can check my portfolio - <a href="[https://twitter.com/](https://647fa1e65e1d35799bbabe88--delicate-youtiao-a0f85d.netlify.app/)" target="blank">Personal Portfolio</a>
+
 
 <p align="left">
 <a href="https://linkedin.com/in/sanket-mudholkar-20b4b5203" target="blank"><img align="center" src="https://blog.linkedin.com/apps/settings/wcm/designs/linkedin/katy/global/clientlibs/resources/img/default-share.png" alt="sanket-mudholkar-20b4b5203" height="30" width="40" /></a>
