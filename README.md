@@ -41,15 +41,6 @@
 
 ---
 
-### 📈 GitHub Stats
-
-<p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=sanket0708&show_icons=true&theme=radical" />
-  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=sanket0708&theme=radical"/>
-</p>
-
----
-
 ### 🧠 Currently Working On
 
 - Building AI/ML projects using Python & TensorFlow
@@ -59,7 +50,8 @@
 
 ### 🥳 Thanks for visiting!
 
-![visitors](https://visitor-badge.glitch.me/badge?page_id=sanket0708)
+![Visitor Badge](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/sanket0708&count_bg=%2379C83D&title_bg=%23555555&icon=github.svg&icon_color=%23E7E7E7&title=visits&edge_flat=false)
+
 
 ---
 
