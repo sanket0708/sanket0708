@@ -1,27 +1,71 @@
-<h1 align="center">Hi 👋, I'm Sanket Mudholkar</h1>
-<h3 align="center">A passionate Full Stack Developer who wants to solve the real life problems.</h3>
-<img align="right" alt="Coding" width="400" src="https://camo.githubusercontent.com/cae12fddd9d6982901d82580bdf321d81fb299141098ca1c2d4891870827bf17/68747470733a2f2f6d69726f2e6d656469756d2e636f6d2f6d61782f313336302f302a37513379765349765f7430696f4a2d5a2e676966">
+<h1 align="center">Hey 👋, I'm Sanket Mudholkar</h1>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=sanket0708&label=Profile%20views&color=0e75b6&style=flat" alt="sanket0708" /> </p>
-
-<p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
-
-- 🌱 I’m currently learning **ReactJS,NodeJS**
-
-- 💬 Ask me about **Data Structures and Algorithms , Web Development**
-
-- 📫 How to reach me **sanketmudhulkar98@gmail.com**
-
-For more details you can check my portfolio - <a href="https://647fa1e65e1d35799bbabe88--delicate-youtiao-a0f85d.netlify.app/" target="blank">Personal Portfolio</a>
-
-
-<p align="left">
-<a href="https://linkedin.com/in/sanket-mudholkar-20b4b5203" target="blank"><img align="center" src="https://blog.linkedin.com/apps/settings/wcm/designs/linkedin/katy/global/clientlibs/resources/img/default-share.png" alt="sanket-mudholkar-20b4b5203" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/sanket0708" target="blank"><img align="center" src="https://theme.zdassets.com/theme_assets/9008406/036323c6afd10392aa5b7e3a2eb7557d17955c81.png" alt="sanket0708" height="30" width="40" /></a>
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=Software+Engineer+%F0%9F%92%BB;AI+%2F+ML+Enthusiast+%F0%9F%A7%AC;Future+MS+CS+Student+in+Germany+%F0%9F%87%A9%F0%9F%87%AA&center=true&width=500&height=45">
 </p>
 
+---
 
+### 🌍 About Me
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=sanket0708&show_icons=true&locale=en&layout=compact" alt="sanket0708" /></p>
+- 🎓 Undergrad in Electronics and Telecommunication Engineering | Working as a Programmer Analyst
+- 💻 Currently working in Salesforce domain
+- 🧠 Interested in **AI/ML and Software Engineering**
+- 🚀 Passionate about building real-world solutions
+- 🌱 Learning AI with projects 📊
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sanket0708&" alt="sanket0708" /></p>
+---
+
+### 🔧 Tech Stack
+
+![Python](https://img.shields.io/badge/-Python-333333?style=for-the-badge&logo=python)
+![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=for-the-badge&logo=javascript)
+![HTML5](https://img.shields.io/badge/-HTML5-333333?style=for-the-badge&logo=html5)
+![CSS3](https://img.shields.io/badge/-CSS3-333333?style=for-the-badge&logo=css3)
+![Node.js](https://img.shields.io/badge/-Node.js-333333?style=for-the-badge&logo=node.js)
+![React](https://img.shields.io/badge/-React-333333?style=for-the-badge&logo=react)
+![MongoDB](https://img.shields.io/badge/-MongoDB-333333?style=for-the-badge&logo=mongodb)
+![Git](https://img.shields.io/badge/-Git-333333?style=for-the-badge&logo=git)
+
+---
+
+### 📫 Connect With Me
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/sanket-mudholkar/"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="mailto:sanketmudhulkar98@gmail.com"><img src="https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  <a href="https://github.com/sanket0708"><img src="https://img.shields.io/badge/-GitHub-333333?style=for-the-badge&logo=github&logoColor=white"/></a>
+  <a href="https://leetcode.com/u/sanket0708/"><img src="https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/></a>
+<!--   <a href="https://your-portfolio-link.com"><img src="https://img.shields.io/badge/-Portfolio-121212?style=for-the-badge&logo=vercel&logoColor=white"/></a> -->
+</p>
+
+---
+
+### 📈 GitHub Stats
+
+<p align="center">
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=sanketmudholkar&show_icons=true&theme=radical" />
+  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=sanketmudholkar&theme=radical"/>
+</p>
+
+---
+
+### ✨ Quote of the Day
+> _"Code is like humor. When you have to explain it, it’s bad."_ — Cory House
+
+---
+
+### 🧠 Currently Working On
+
+- Building AI/ML projects using Python & TensorFlow
+- Mastering DSA  
+
+---
+
+### 🥳 Thanks for visiting!
+
+![visitors](https://visitor-badge.glitch.me/badge?page_id=sanketmudholkar)
+
+---
+
+## 🔥 Keep Learning, Keep Building 🚀
