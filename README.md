@@ -50,8 +50,9 @@
 
 ### 🥳 Thanks for visiting!
 
-![Visitor Badge](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/sanket0708&count_bg=%2379C83D&title_bg=%23555555&icon=github.svg&icon_color=%23E7E7E7&title=visits&edge_flat=false)
-
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=sanket0708&label=Profile%20Views&color=0e75b6&style=flat" alt="sanket0708" />
+</p>
 
 ---
 
