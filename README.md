@@ -1,7 +1,7 @@
 <h1 align="center">Hey 👋, I'm Sanket Mudholkar</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=Software+Engineer+%F0%9F%92%BB;AI+%2F+ML+Enthusiast+%F0%9F%A7%AC;Future+MS+CS+Student+in+Germany+%F0%9F%87%A9%F0%9F%87%AA&center=true&width=500&height=45">
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=Software+Engineer+%F0%9F%92%BB;AI+%2F+ML+Enthusiast+%F0%9F%A7%AC;Future+MS+CS+Student+%F0%9F%87%A9%F0%9F%87%AA&center=true&width=500&height=45">
 </p>
 
 ---
@@ -44,14 +44,9 @@
 ### 📈 GitHub Stats
 
 <p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=sanketmudholkar&show_icons=true&theme=radical" />
-  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=sanketmudholkar&theme=radical"/>
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=sanket0708&show_icons=true&theme=radical" />
+  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=sanket0708&theme=radical"/>
 </p>
-
----
-
-### ✨ Quote of the Day
-> _"Code is like humor. When you have to explain it, it’s bad."_ — Cory House
 
 ---
 
@@ -64,7 +59,7 @@
 
 ### 🥳 Thanks for visiting!
 
-![visitors](https://visitor-badge.glitch.me/badge?page_id=sanketmudholkar)
+![visitors](https://visitor-badge.glitch.me/badge?page_id=sanket0708)
 
 ---
 
